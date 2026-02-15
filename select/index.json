@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ゼロトーキング",
+  "base_artist": "はるまきごはん",
+  "createdAt": "2026-02-15T04:54:20.107337Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゼロトーキング",
+      "artist": "はるまきごはん",
+      "has_synced": false,
+      "path": "select/pl_01_ゼロトーキング_はるまきごはん.txt"
+    }
+  ]
+}
